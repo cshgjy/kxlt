@@ -1,3 +1,9 @@
+视频
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20140717/001.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20140717/002.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20140717/003.mp4
+
+图片
 https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20140717.01-kxlt.jpg
 https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20140717.02-kxlt.jpg
 https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20140717.03-kxlt.jpg
