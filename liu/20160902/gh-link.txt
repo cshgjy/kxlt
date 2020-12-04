@@ -1,0 +1,7 @@
+视频
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20130505/video/001.mp4
+
+图片
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/liu/20160902/001.jpg
+---
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/liu/20160902/022.jpg
