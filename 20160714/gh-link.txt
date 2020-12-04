@@ -1,0 +1,8 @@
+视频
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20160714/video/001.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20160714/video/002.mp4
+
+图片
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20160714/001.jpg
+---
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20160714/026.jpg
