@@ -1,0 +1,15 @@
+视频
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20151003/001.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20151003/002.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20151003/003.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20151003/004.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20151003/005.mp4
+
+图片
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.1-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.2-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.3-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.4-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.5-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.6-kxlt.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20151003.7-kxlt.jpg
