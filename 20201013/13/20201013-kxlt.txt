@@ -1,0 +1,9 @@
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20201013/13/video/001.mp4
+
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.1-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.2-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.3-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.4-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.5-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201013.6-kxlt.jpg" class="thumb"></article>
