@@ -1,3 +1,7 @@
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20201013/18/video/001.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20201013/18/video/002.mp4
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20201013/18/video/003.mp4
+
 <article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201018.1-kxlt.jpg" class="thumb"></article>
 <article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201018.2-kxlt.jpg" class="thumb"></article>
 <article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20201018.3-kxlt.jpg" class="thumb"></article>
