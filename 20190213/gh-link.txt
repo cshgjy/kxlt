@@ -1,24 +1,5 @@
 视频
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190213/001.mp4
 
-图片
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.01-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.02-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.03-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.04-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.05-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.06-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.07-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.08-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.09-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.10-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.11-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.12-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.13-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.14-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.15-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.16-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.17-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.18-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20190213.19-kxlt.jpg
+
 

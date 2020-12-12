@@ -1,19 +1,19 @@
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.01-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.02-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.03-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.04-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.05-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.06-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.07-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.08-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.09-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.10-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.11-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.12-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.13-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.14-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.15-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.16-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.17-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.18-kxlt.jpg
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.01-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.02-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.03-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.04-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.05-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.06-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.07-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.08-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.09-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.10-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.11-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.12-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.13-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.14-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.15-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.16-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.17-kxlt.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20111006.18-kxlt.jpg" class="thumb"></article>
 

@@ -3,7 +3,3 @@ https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190313/20190318/video/001.mp4
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190313/20190318/video/002.mp4
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190313/20190318/video/003.mp4
 
-图片
-https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190313/20190318/001.jpg
----
-https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20190313/20190318/099.jpg

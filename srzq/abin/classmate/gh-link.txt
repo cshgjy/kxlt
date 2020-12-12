@@ -1,3 +1,14 @@
-https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/001.jpg
----
-https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/013.jpg
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/001.JPG" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/002.JPG" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/003.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/004.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/005.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/006.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/007.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/008.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/009.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/010.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/011.JPG" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/012.jpg" class="thumb"></article>
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/kxlt/srzq/abin/classmate/013.jpg" class="thumb"></article>
+
