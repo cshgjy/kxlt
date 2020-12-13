@@ -2,12 +2,5 @@
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20181120/001.mp4
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/20181120/002.mp4
 
-图片
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.1-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.2-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.3-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.4-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.5-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.6-kxlt.jpg
-https://cdn.jsdelivr.net/gh/cshgjy/jsDelivr-img/kxlt/20181120.7-kxlt.jpg
+
 
