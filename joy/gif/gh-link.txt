@@ -5,6 +5,6 @@ gif
 
 
 其余为 jpg
-https://cdn.jsdelivr.net/gh/cshgjy/kxlt/joy/yule/001.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/kxlt/joy/gif/001.jpg
 ---
 https://cdn.jsdelivr.net/gh/cshgjy/kxlt/joy/yule/036.jpg
